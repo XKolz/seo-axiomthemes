@@ -8,7 +8,7 @@ import {
   FiImage,
   FiCreditCard,
   FiArrowUp,
-  FiMessageSquare,
+  // FiMessageSquare,
 } from "react-icons/fi";
 import { HiOutlineMail } from "react-icons/hi";
 
